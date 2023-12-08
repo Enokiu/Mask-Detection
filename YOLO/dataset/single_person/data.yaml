@@ -1,0 +1,6 @@
+train: ../dataset/single_person/images/train/
+val: ../dataset/single_person/images/val/
+nc: 4
+names: ['face_no_mask', 'face_with_mask', 'face_other_covering', 'face_with_mask_incorrect']
+patience: 5  # Anzahl der Epochen, die gewartet werden, wenn die Leistung nicht besser wird
+delta: 0.0001  # Schwellenwert, um zu bestimmen, ob die Leistung sich verbessert hat
