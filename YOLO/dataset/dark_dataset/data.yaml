@@ -1,0 +1,6 @@
+train: ../dataset/dark_dataset/images/train/
+val: ../dataset/dark_dataset/images/val/
+nc: 3
+names: ['without_mask', 'with_mask', 'mask_weared_incorrect']
+patience: 5  # Anzahl der Epochen, die gewartet werden, wenn die Leistung nicht besser wird
+delta: 0.0001  # Schwellenwert, um zu bestimmen, ob die Leistung sich verbessert hat
