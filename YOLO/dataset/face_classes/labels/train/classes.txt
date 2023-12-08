@@ -1,0 +1,4 @@
+0 face_no_mask
+1 face_with_mask
+2 face_other_covering
+3 face_with_mask_incorrect
