@@ -1,0 +1,6 @@
+train: ../dataset/all_classes/images/train/
+val: ../dataset/all_classes/images/val/
+nc: 20
+names: ['face_no_mask', 'face_with_mask', 'mask_surgical', 'hat', 'eyeglasses', 'face_other_covering', 'face_with_mask_incorrect', 'mask_colorful', 'helmet', 'sunglasses', 'scarf_bandana', 'hair_net', 'goggles', 'face_shield', 'hijab_niqab', 'turban', 'balaclava_ski_mask', 'gas_mask', 'hood', 'other']
+patience: 5  # Anzahl der Epochen, die gewartet werden, wenn die Leistung nicht besser wird
+delta: 0.0001  # Schwellenwert, um zu bestimmen, ob die Leistung sich verbessert hat
