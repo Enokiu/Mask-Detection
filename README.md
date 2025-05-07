@@ -132,6 +132,9 @@ Für detailliertere Ergebnisse, umfassendere Analysen und Einblicke in den Train
 
 Das [Jupyter Notebook](YOLO/Datenvorbereitung_YOLOv5.ipynb) steht zur Verfügung und bietet die Möglichkeit, die einzelnen Schritte nachzuvollziehen. 
 
+## Lizenz
+
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
 
 
