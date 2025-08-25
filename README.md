@@ -1,4 +1,4 @@
-# Masc_Detection# Maskenerkennung mit YOLOv5
+# mask_Detection# Maskenerkennung mit YOLOv5
 
 ## Übersicht über die Datensätze
 
